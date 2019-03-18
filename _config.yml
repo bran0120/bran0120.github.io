@@ -17,8 +17,7 @@ favicon: favicon.ico
 
 repository: xiyun/xiyun.github.io
 github_url: https://github.com/xiyun
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+url: http:// github.com/xiyun
 
 ## Gem
 plugins:
